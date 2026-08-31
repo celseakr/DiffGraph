@@ -1,6 +1,6 @@
-# Core calculation component module
-def add_numbers(a: int, b: int):
-    return a + b
+# Modified calculation engine - CHANGED ARGUMENT NAMES!
+def add_numbers(number1: int, number2: int):
+    return number1 + number2
 
 def divide_numbers(numerator: int, denominator: int):
     if denominator == 0:
